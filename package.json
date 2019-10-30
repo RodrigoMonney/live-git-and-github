@@ -1,0 +1,10 @@
+{
+  "name": "git-and-github",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Rodrigo Reis <rodrigo.monney@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
