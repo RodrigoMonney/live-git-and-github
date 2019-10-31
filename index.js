@@ -2,8 +2,8 @@ const express = require('express')
 
 const server = express()
 
-server.get('/message', (req, res) => {
-  return res.json({ message: 'Hello, Rodrigo!' })
+server.get('/info', (req, res) => {
+  return res.json({ info: 'status OK' })
 })
 
 server.listen(3000)
